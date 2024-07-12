@@ -15,3 +15,5 @@ This repository includes question papers from courses I have taken as a CND stud
 2. Linear Algebra - Quiz 2, Endsem (Booklet-based exams).
 3. Introduction to Software Systems (H1) - Quiz 1 (No quiz was conducted as we had a course project).
 4. Computing in Sciences II (H2) - Quiz 1, Endsem Lab (Booklet and computer-based, respectively).
+
+### For more question papers visit https://github.com/VijayrajS/iiitprevpapers.git

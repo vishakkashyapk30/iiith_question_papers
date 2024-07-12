@@ -1,4 +1,4 @@
-# Collection of Question Papers
+# Question Paper Archive
 
 This repository includes question papers from courses I have taken as a CND student at IIIT Hyderabad.
 

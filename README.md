@@ -16,4 +16,6 @@ This repository includes question papers from courses I have taken as a CND stud
 3. Introduction to Software Systems (H1) - Quiz 1 (No quiz was conducted as we had a course project).
 4. Computing in Sciences II (H2) - Quiz 1, Endsem Lab (Worksheet and computer-based, respectively).
 
-### For more question papers visit https://github.com/VijayrajS/iiitprevpapers.git
+### For UG2K21 Question Papers - https://github.com/brahad316/course-material/tree/main
+### For UG2K22 Question Papers - https://github.com/zyx7k/course-material
+### For more question papers - https://github.com/VijayrajS/iiitprevpapers.git and https://iiith-resources.github.io/index.html

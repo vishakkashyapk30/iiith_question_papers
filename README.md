@@ -6,7 +6,7 @@ This repository includes question papers from courses I have taken as a CND stud
 
 #### I Year I Semester Courses
 1. Computer Programming - Midsem & Endsem (Computer-based exams).
-2. Real Analysis - Quiz 2 (Computer-based exam).
+2. Real Analysis - Quiz 1 & Quiz 2 (Questions were written on board for quiz 1 & the latter was Computer-based exam).
 3. Digital Systems & Microcontrollers - Quiz 1 & Quiz 2 (Worksheet-based MCQ exams).
 4. Computing in Sciences I (H2) - Quiz 2 & Endsem (Worksheet-based exams).
 
